@@ -1,8 +1,21 @@
 *{
     text-align: center;
+    /* padding: 0px 0px 10px; */
+}
+
+.back{
+    /* background-image: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1613291422_37-p-sinii-fon-dlya-storiz-51.jpg'); */
+    /* opacity: 0.1; */
+    /* height: 100%; */
+    /* background-image: url('https://phonoteka.org/uploads/posts/2021-04/1618849828_2-phonoteka_org-p-izobrazhenie-dlya-fona-saita-2.jpg'); */
+    /* background-size: cover; */
+    /* background-repeat: repeat; */
+    /* z-index: 1; */
+    /* background-color: burlywood; */
 }
 
 .button {
+    /* z-index: 2; */
     padding: 15px 25px;
     font-size: 24px;
     text-align: center;
